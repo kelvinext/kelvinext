@@ -11,6 +11,7 @@ Welcome to my personal README file. Here, you'll find some essential information
 ## Interests
 
 - Software Development: I have a keen interest in software development and enjoy working on projects that challenge my skills.
+- Full Stack Development: I have a passion for building both the fontend and backend of web application and website and enjoy creating intire user experiences.
 - Artificial Intelligence: Exploring the world of AI and machine learning is something I find fascinating.
 - Outdoor Activities: I like spending time outdoors, hiking, and playing sports.
 - Reading: Books and articles on various subjects captivate my curiosity.
@@ -32,7 +33,7 @@ Here are some of my key skills
 
 Feel free to reach out to me via:
 
-- Email: [Your email address]
+- Email: kelvinpradhan18@gmail.com
 - LinkedIn: [Your LinkedIn profile URL]
 - Twitter: [Your Twitter handle]
 - Personal Website/Blog: [URL to your personal website/blog]
