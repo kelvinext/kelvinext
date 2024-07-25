@@ -28,7 +28,7 @@ Here are some of my key skills
 Feel free to reach out to me via:
 
 - Email: kelvinpradhan18@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kelvin-pradhan-10b7a9221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/kelvin-pradhan-10b7a9221
 
 I'm always open to new opportunities, collaborations, and interesting discussions!
 
