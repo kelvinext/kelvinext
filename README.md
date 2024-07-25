@@ -22,6 +22,7 @@ Here are some of my key skills
 - HTML
 - CSS
 - C language
+- My Sql
 
 ## Contact
 
