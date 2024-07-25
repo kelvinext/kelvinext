@@ -19,24 +19,16 @@ Welcome to my personal README file. Here, you'll find some essential information
 ## Skills
 
 Here are some of my key skills
--
--
--
--
-
-## Projects
-
-- [Project Name 1](link-to-repository): Brief description of the project.
-- [Project Name 2](link-to-repository): Brief description of the project.
+- HTML
+- CSS
+- C language
 
 ## Contact
 
 Feel free to reach out to me via:
 
 - Email: kelvinpradhan18@gmail.com
-- LinkedIn: [Your LinkedIn profile URL]
-- Twitter: [Your Twitter handle]
-- Personal Website/Blog: [URL to your personal website/blog]
+- LinkedIn: https://www.linkedin.com/in/kelvin-pradhan-10b7a9221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 I'm always open to new opportunities, collaborations, and interesting discussions!
 
