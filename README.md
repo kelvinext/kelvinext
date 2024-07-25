@@ -11,6 +11,7 @@ Welcome to my personal README file. Here, you'll find some essential information
 ## Interests
 
 - Software Development: I have a keen interest in software development and enjoy working on projects that challenge my skills.
+- Data Analytics: Passionate about extracting insights from data to drive informed decisions.
 - Full Stack Development: I have a passion for building both the fontend and backend of web application and website and enjoy creating intire user experiences.
 - Artificial Intelligence: Exploring the world of AI and machine learning is something I find fascinating.
 - Outdoor Activities: I like spending time outdoors, hiking, and playing sports.
