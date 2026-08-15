@@ -1,7 +1,7 @@
 # 👨‍💻 Kelvin Pradhan
 
 <p align="center">
-  <a href="https://kelvinpradhan.netlify.app/projects">
+  <a href="https://kelvinpradhan.netlify.app">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-View%20My%20Projects-00A8E8?style=for-the-badge" />
   </a>
   <a href="https://github.com/kelvinext">
@@ -346,7 +346,7 @@ Automation
 
 <p align="center">
 
-<a href="https://kelvinpradhan.netlify.app/projects">
+<a href="https://kelvinpradhan.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Projects-00A8E8?style=for-the-badge" />
 </a>
 
