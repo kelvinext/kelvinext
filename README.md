@@ -38,12 +38,12 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                    KELVIN PRADHAN                            │
 ├──────────────────────────────────────────────────────────────┤
-│ Role        : Software Developer                            │
-│ Interests   : Development • DevOps • AI • Automation        │
-│ Framework   : Frappe • ERPNext                              │
-│ Databases   : MySQL • MariaDB • MongoDB                     │
+│ Role        : Software Developer                             │
+│ Interests   : Development • DevOps • AI • Automation         │
+│ Framework   : Frappe • ERPNext                               │
+│ Databases   : MySQL • MariaDB • MongoDB                      │
 │ Environment : Linux • Docker • Kubernetes                    │
-│ Philosophy  : Learn → Build → Improve                       │
+│ Philosophy  : Learn → Build → Improve                        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -158,7 +158,7 @@ I enjoy taking an idea from a concept and turning it into a working system.
 │                                                             │
 │  [04] ENTERPRISE APPLICATIONS                               │
 │       └─ Frappe Framework                                   │
-│       └─ ERPNext                                             │
+│       └─ ERPNext                                            │
 │       └─ Custom DocTypes                                    │
 │       └─ API Integration                                    │
 │                                                             │
@@ -291,12 +291,12 @@ Automation
 ```text
 ┌───────────────────────────────────────────────────────┐
 │                                                       │
-│   STATUS      : ONLINE                               │
-│   MODE        : BUILDING                             │
-│   INTEREST    : TECHNOLOGY                           │
-│   MISSION     : KEEP LEARNING                        │
+│   STATUS      : ONLINE                                │
+│   MODE        : BUILDING                              │
+│   INTEREST    : TECHNOLOGY                            │
+│   MISSION     : KEEP LEARNING                         │
 │                                                       │
-│   ████████████████████████████████████████  100%     │
+│   ████████████████████████████████████████  100%      │
 │                                                       │
 └───────────────────────────────────────────────────────┘
 ```
