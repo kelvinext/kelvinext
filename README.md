@@ -249,10 +249,10 @@ Automation
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                   TECHNOLOGY STACK                      ║
+║                   TECHNOLOGY STACK                       ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  Languages       → Python • C • Java • JavaScript       ║
+║  Languages       → Python • C • Java • JavaScript        ║
 ║                     PHP • HTML • CSS                     ║
 ║                                                          ║
 ║  Frameworks      → Frappe • ERPNext                      ║
@@ -261,14 +261,14 @@ Automation
 ║                                                          ║
 ║  DevOps          → Docker • Kubernetes • Jenkins         ║
 ║                                                          ║
-║  Development     → Git • GitHub • VS Code • Postman     ║
+║  Development     → Git • GitHub • VS Code • Postman      ║
 ║                                                          ║
-║  AI / Vision     → OpenCV • OCR • ANPR • AI             ║
+║  AI / Vision     → OpenCV • OCR • ANPR • AI              ║
 ║                                                          ║
-║  Data            → Pandas • Matplotlib • Power BI       ║
+║  Data            → Pandas • Matplotlib • Power BI        ║
 ║                     • Microsoft Excel                    ║
 ║                                                          ║
-║  OS              → Linux • Ubuntu • Windows • WSL       ║
+║  OS              → Linux • Ubuntu • Windows • WSL        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 
