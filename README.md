@@ -1,198 +1,314 @@
-# 👋 Hey, I'm Kelvin Pradhan
+# 👨‍💻 Kelvin Pradhan
 
-### 🚀 Developer | Tech Enthusiast | Problem Solver
+<p align="center">
+  <img src="https://github.com/kelvinext.png" width="140" alt="Kelvin Pradhan"/>
+</p>
 
-I'm **@kelvinext**, a passionate developer who loves building things, exploring new technologies, and turning ideas into practical solutions.
+<p align="center">
+  <strong>Software Developer • Full Stack Developer • DevOps Enthusiast</strong>
+</p>
 
-I enjoy working across **software development, full-stack applications, data analytics, AI, DevOps, automation, and enterprise application development**. I'm always learning, experimenting, and looking for new challenges. 💻🔥
+<p align="center">
+  Building practical software solutions with code, automation, databases, and modern technologies.
+</p>
 
 <p align="center">
   <a href="mailto:kelvinpradhan18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kelvin-pradhan-10b7a9221">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kelvinext">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on **software development and automation projects**
-* 🌱 Continuously learning **DevOps, AI, cloud technologies, and enterprise application development**
-* 💡 Interested in solving real-world problems through technology
-* 🤝 Open to **collaboration, internships, jobs, and interesting projects**
-* ⚡ I enjoy experimenting with new tools and turning ideas into working applications
-* 🎯 Goal: **Keep learning. Keep building. Keep improving.**
-
----
-
-## 🚀 What I'm Interested In
-
-| Area                       | What I Enjoy                                     |
-| -------------------------- | ------------------------------------------------ |
-| 💻 Software Development    | Building useful and scalable applications        |
-| 🌐 Full Stack Development  | Creating complete frontend + backend experiences |
-| 📊 Data Analytics          | Finding insights and patterns from data          |
-| 🤖 Artificial Intelligence | Exploring AI and Machine Learning                |
-| ⚙️ DevOps                  | Docker, CI/CD, automation and deployment         |
-| 🏢 Enterprise Applications | Building applications with Frappe & ERPNext      |
-| 🔐 Cybersecurity           | Networking, security and system exploration      |
-| 🧠 Problem Solving         | Breaking complex problems into simple solutions  |
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js,php,html,css" />
-</p>
-
-### 🌐 Web & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
-</p>
-
-**Frameworks & Platforms**
-
-`Frappe` • `ERPNext` • `Frappe Framework`
-
----
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" />
-</p>
-
-`MySQL` • `MongoDB` • `MariaDB`
-
----
-
-### ⚙️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,jenkins,postman" />
-</p>
-
-`Docker` • `Kubernetes` • `Git` • `GitHub` • `Linux` • `Jenkins` • `Postman`
-
----
-
-### 📊 Data & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,powerbi,excel,opnencv,ocr,artificialintelligence" />
-</p>
-
-`Pandas` • `Matplotlib` • `Power BI` • `Excel` • `OpenCV` • `OCR` • `Artificial Intelligence`
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvinext&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinext&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kelvinext&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-00ADD8?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-8A2BE2?style=flat-square&logo=probot&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelvinext&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 📊 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvinext&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🌱 Currently Learning
+## `> whoami`
 
 ```text
-🐳 Docker & DevOps
-☸️ Kubernetes
-🤖 Artificial Intelligence
-👁️ Computer Vision & OCR
-🌐 Full Stack Development
-🏢 Frappe Framework & ERPNext
-📊 Data Analytics
-⚙️ Automation
-☁️ Cloud Technologies
-🗄️ Database Management
+┌──────────────────────────────────────────────────────────────┐
+│                    KELVIN PRADHAN                            │
+├──────────────────────────────────────────────────────────────┤
+│ Role        : Software Developer                            │
+│ Interests   : Development • DevOps • AI • Automation        │
+│ Framework   : Frappe • ERPNext                              │
+│ Databases   : MySQL • MariaDB • MongoDB                     │
+│ Environment : Linux • Docker • Kubernetes                    │
+│ Philosophy  : Learn → Build → Improve                       │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I'm **Kelvin Pradhan**, a passionate developer who enjoys exploring technology, solving problems, and building practical applications.
+
+My interests cover **software development, full-stack development, DevOps, databases, data analytics, artificial intelligence, computer vision, OCR, automation, and enterprise applications**.
+
+I enjoy taking an idea from a concept and turning it into a working system.
+
+---
+
+## `> about_me`
+
+* 💻 Passionate about **software development**
+* 🌐 Interested in **full-stack application development**
+* ⚙️ Exploring **DevOps, Docker, Kubernetes and automation**
+* 🏢 Working with **Frappe Framework & ERPNext**
+* 🤖 Exploring **Artificial Intelligence, OCR & Computer Vision**
+* 📊 Interested in **Data Analytics**
+* 🗄️ Working with relational and NoSQL databases
+* 🐧 Comfortable working with **Linux environments**
+* 🔧 Enjoy building and experimenting with real-world systems
+* 🚀 Always learning new technologies
+
+---
+
+# `> tech_stack`
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,php,html,css" />
+</p>
+
+`Python` • `C` • `Java` • `JavaScript` • `PHP` • `HTML` • `CSS`
+
+---
+
+## 🌐 Frameworks & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Frappe-Framework-0089FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERPNext-Enterprise-0089FF?style=for-the-badge&logoColor=white" />
+</p>
+
+`Frappe Framework` • `ERPNext` • `REST API` • `Client Scripts` • `Server Scripts`
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+`MySQL` • `MariaDB` • `MongoDB`
+
+---
+
+## ⚙️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,jenkins" />
+</p>
+
+`Docker` • `Kubernetes` • `Git` • `GitHub` • `Linux` • `Jenkins`
+
+---
+
+## 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git" />
+</p>
+
+`VS Code` • `Postman` • `Git` • `GitHub` • `REST APIs`
+
+---
+
+## 📊 Data & Analytics
+
+`Pandas` • `Matplotlib` • `Power BI` • `Microsoft Excel`
+
+---
+
+## 🤖 AI & Computer Vision
+
+`Artificial Intelligence` • `Computer Vision` • `OpenCV` • `OCR` • `ANPR`
+
+---
+
+# `> development_areas`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01] SOFTWARE DEVELOPMENT                                  │
+│       └─ Application Development                            │
+│       └─ Backend Development                                │
+│       └─ REST APIs                                          │
+│                                                             │
+│  [02] FULL STACK DEVELOPMENT                                │
+│       └─ Frontend                                           │
+│       └─ Backend                                            │
+│       └─ Database Integration                               │
+│                                                             │
+│  [03] DEVOPS                                                │
+│       └─ Docker                                             │
+│       └─ Kubernetes                                         │
+│       └─ CI/CD                                              │
+│       └─ Linux                                              │
+│                                                             │
+│  [04] ENTERPRISE APPLICATIONS                               │
+│       └─ Frappe Framework                                   │
+│       └─ ERPNext                                             │
+│       └─ Custom DocTypes                                    │
+│       └─ API Integration                                    │
+│                                                             │
+│  [05] AI & COMPUTER VISION                                  │
+│       └─ OpenCV                                             │
+│       └─ OCR                                                │
+│       └─ ANPR                                               │
+│       └─ Automation                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 2026 Goals
+# `> current_learning`
 
-* 🚀 Build more real-world projects
-* 🧠 Improve my problem-solving skills
-* ☁️ Learn more about Cloud & DevOps
-* 🤖 Build practical AI-powered applications
-* 🏢 Develop deeper expertise in Frappe & ERPNext
-* 🔧 Contribute to Open Source
-* 💼 Grow as a professional software developer
+```text
+[████████████████████████████████████████] Learning
 
----
-
-## 🌍 Beyond Coding
-
-When I'm not coding, I enjoy:
-
-* 🏃 Outdoor activities
-* 🏏 Playing sports
-* 📚 Reading
-* 🔍 Exploring new technologies
-* 🧠 Learning about different fields
-* 🤝 Meeting and collaborating with new people
+Docker & Containerization
+Kubernetes
+DevOps & CI/CD
+Frappe Framework
+ERPNext
+Artificial Intelligence
+Computer Vision
+OCR & ANPR
+Database Management
+Cloud Technologies
+Automation
+```
 
 ---
 
-## 🤝 Let's Connect!
+# `> tools`
 
-I'm always open to **new opportunities, collaborations, interesting projects, and technical discussions.**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white" />
+
+</p>
+
+---
+
+# `> engineering_mindset`
+
+```text
+                    ┌─────────────────┐
+                    │      IDEA       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     LEARN       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      BUILD      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      TEST       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     IMPROVE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     REPEAT      │
+                    └─────────────────┘
+```
+
+> **Learn continuously. Build practically. Solve intelligently.**
+
+---
+
+# `> 2026_goals`
+
+```text
+[✓] Improve software development skills
+[✓] Work with modern development technologies
+[→] Deepen Frappe & ERPNext expertise
+[→] Build AI-powered applications
+[→] Improve DevOps & Kubernetes knowledge
+[→] Explore Cloud technologies
+[→] Contribute to Open Source
+[→] Build more real-world projects
+```
+
+---
+
+# `> connect`
 
 <p align="center">
 
 <a href="mailto:kelvinpradhan18@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/kelvin-pradhan-10b7a9221">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/kelvinext">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Follow-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-### 💭 Developer Mindset
+## `> system_status`
 
-> **"Learn something new. Build something useful. Improve every day."**
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│   STATUS      : ONLINE                               │
+│   MODE        : BUILDING                             │
+│   INTEREST    : TECHNOLOGY                           │
+│   MISSION     : KEEP LEARNING                        │
+│                                                       │
+│   ████████████████████████████████████████  100%     │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  ⭐ If you find my work interesting, consider giving my repositories a star!
+  <strong>Thanks for visiting my profile! 👋</strong>
+</p>
+
+<p align="center">
+  <sub>⭐ Feel free to explore my repositories and connect with me.</sub>
+</p>
+
+<p align="center">
+  <code>while(alive) { learn(); build(); improve(); }</code>
 </p>
