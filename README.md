@@ -152,9 +152,125 @@ Cloud Technologies
 Automation
 ```
 
+# `> tools`
+
+## 🧰 Development & Engineering Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 ---
 
-# `> tools`
+## 🐳 DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🏢 Enterprise Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frappe-Framework-0089FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERPNext-Enterprise-0089FF?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-Development-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client%20Scripts-Frappe-0089FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server%20Scripts-Frappe-0089FF?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Database Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🤖 AI & Computer Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-Computer%20Vision-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANPR-Automation-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Data & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+## 🖥️ Operating Systems & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+`Ubuntu` • `Linux` • `Windows` • `Docker Desktop` • `WSL`
+
+---
+
+## ⚡ Technology Stack
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                   TECHNOLOGY STACK                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  Languages       → Python • C • Java • JavaScript       ║
+║                     PHP • HTML • CSS                     ║
+║                                                          ║
+║  Frameworks      → Frappe • ERPNext                      ║
+║                                                          ║
+║  Databases       → MySQL • MariaDB • MongoDB             ║
+║                                                          ║
+║  DevOps          → Docker • Kubernetes • Jenkins         ║
+║                                                          ║
+║  Development     → Git • GitHub • VS Code • Postman     ║
+║                                                          ║
+║  AI / Vision     → OpenCV • OCR • ANPR • AI             ║
+║                                                          ║
+║  Data            → Pandas • Matplotlib • Power BI       ║
+║                     • Microsoft Excel                    ║
+║                                                          ║
+║  OS              → Linux • Ubuntu • Windows • WSL       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 
 ---
 
