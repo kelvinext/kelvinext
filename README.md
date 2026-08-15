@@ -69,7 +69,7 @@ I enjoy working across **software development, full-stack applications, data ana
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" />
 </p>
 
 `MySQL` • `MongoDB` • `MariaDB`
@@ -89,7 +89,7 @@ I enjoy working across **software development, full-stack applications, data ana
 ### 📊 Data & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,powerbi,excel,opnencv,ocr,artificialintelligence" />
 </p>
 
 `Pandas` • `Matplotlib` • `Power BI` • `Excel` • `OpenCV` • `OCR` • `Artificial Intelligence`
